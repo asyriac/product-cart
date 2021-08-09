@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name":"Unbranded Metal Cheese",
+            "price": 500,
+            "image": "http://placeimg.com/640/480/city"
+        },
+        {
+            "id": 2,
+            "name":"Intelligent Frozen Cheese",
+            "price": 300,
+            "image": "http://placeimg.com/640/480/nightlife"
+        },
+        {
+            "id": 3,
+            "name":"Refined Cotton Computer",
+            "price": 700,
+            "image": "http://placeimg.com/640/480/cats"
+        },
+        {
+            "id": 4,
+            "name":"Fantastic Granite Cheese",
+            "price": 200,
+            "image": "http://placeimg.com/640/480/sports"
+        },
+        {
+            "id": 5,
+            "name":"Generic Metal Bike",
+            "price": 750,
+            "image": "http://placeimg.com/640/480/nature"
+        },
+        {
+            "id": 6,
+            "name":"Small Granite Chicken",
+            "price": 800,
+            "image": "http://placeimg.com/640/480/business"
+        },
+        {
+            "id": 7,
+            "name":"Tasty Fresh Hat",
+            "price": 1500,
+            "image": "http://placeimg.com/640/480/abstract"
+        }
+    ]
+}
